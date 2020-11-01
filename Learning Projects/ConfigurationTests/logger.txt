@@ -1,0 +1,11 @@
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\Work\Learning Projects\ConfigurationTests
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\Work\Learning Projects\ConfigurationTests
+Processing request /
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\Work\Learning Projects\ConfigurationTests
+Processing request /

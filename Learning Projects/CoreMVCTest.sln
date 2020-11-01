@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreMVCTest", "CoreMVCTest\CoreMVCTest.csproj", "{F7F81E30-FF9F-4B9D-9140-1E9FC75538EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningProject", "LearningProject\LearningProject.csproj", "{59C152E3-59D6-47EC-B154-E434A053274E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{C7C74F2B-104C-41ED-9870-B74E22928AF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigurationTestsAndLogging", "ConfigurationTests\ConfigurationTestsAndLogging.csproj", "{F473E0EF-FC19-4863-883B-A9DBB6757697}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoutingAPp", "RoutingAPp\RoutingAPp.csproj", "{7FB1C615-680C-43DC-8DD6-55FEB3439960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeTutorial", "YouTubeTutorial\YouTubeTutorial.csproj", "{40C31B09-B42F-4C0F-83C4-F37BC0A34002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F81E30-FF9F-4B9D-9140-1E9FC75538EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F81E30-FF9F-4B9D-9140-1E9FC75538EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F81E30-FF9F-4B9D-9140-1E9FC75538EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F81E30-FF9F-4B9D-9140-1E9FC75538EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C152E3-59D6-47EC-B154-E434A053274E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C152E3-59D6-47EC-B154-E434A053274E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C152E3-59D6-47EC-B154-E434A053274E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C152E3-59D6-47EC-B154-E434A053274E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C74F2B-104C-41ED-9870-B74E22928AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C74F2B-104C-41ED-9870-B74E22928AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C74F2B-104C-41ED-9870-B74E22928AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C74F2B-104C-41ED-9870-B74E22928AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F473E0EF-FC19-4863-883B-A9DBB6757697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F473E0EF-FC19-4863-883B-A9DBB6757697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F473E0EF-FC19-4863-883B-A9DBB6757697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F473E0EF-FC19-4863-883B-A9DBB6757697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB1C615-680C-43DC-8DD6-55FEB3439960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB1C615-680C-43DC-8DD6-55FEB3439960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB1C615-680C-43DC-8DD6-55FEB3439960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB1C615-680C-43DC-8DD6-55FEB3439960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C31B09-B42F-4C0F-83C4-F37BC0A34002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C31B09-B42F-4C0F-83C4-F37BC0A34002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C31B09-B42F-4C0F-83C4-F37BC0A34002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C31B09-B42F-4C0F-83C4-F37BC0A34002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26771F9A-F442-4887-ABE1-E2414F25D6DB}
+	EndGlobalSection
+EndGlobal
