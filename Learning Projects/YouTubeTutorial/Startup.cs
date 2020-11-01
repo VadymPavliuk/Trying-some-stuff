@@ -32,6 +32,8 @@ namespace YouTubeTutorial
 
             app.UseRouting();
 
+            app.UseMvc();
+
             app.UseEndpoints(endpoint => {
                 endpoint.MapControllerRoute(name: "Employees", pattern: "{controller=employees}/{action=Index}/{id?}");
             });
